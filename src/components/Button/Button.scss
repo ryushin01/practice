@@ -1,0 +1,46 @@
+.btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 24px;
+  border-radius: 6px;
+  width: 100%;
+  cursor: pointer;
+
+  &:disabled {
+    background-color: #cccccc;
+    border: none;
+    cursor: default;
+  }
+  &:hover {
+    background-color: #083e7f;
+    border: none;
+  }
+
+  &[shape='outline'] {
+    background-color: none;
+    border: 1px solid #2d71f7;
+    color: #2d71f7;
+  }
+  &[shape='fill'] {
+    background-color: #2d71f7;
+    border: none;
+    color: #ffffff;
+  }
+
+  &[size='large'] {
+    height: 56px;
+    width: 528px;
+  }
+  &[size='middle'] {
+    height: 56px;
+    width: 120px;
+  }
+  &[size='small'] {
+    height: 50px;
+    width: 96px;
+  }
+}
+
+// link = back >>> 기능별로 분리 > 관심사분리
+// back button : navigate(-1) >> history.go (-1) 어찌됐건 뒤로감 +1은 앞으로감 >> 독립컴포넌트로 관리(backbutton.js)
