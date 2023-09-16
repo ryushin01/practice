@@ -5,7 +5,15 @@ const Button = props => {
   const handleClick = () => {
     props.onClick();
   };
-  const { className = 'btn', type, shape, size, name, onClick } = props;
+  const {
+    className = 'btn',
+    type = 'button',
+    shape,
+    size,
+    name,
+    onClick,
+    disabled,
+  } = props;
 
   return (
     <button
@@ -15,6 +23,7 @@ const Button = props => {
       size={size}
       name={name}
       onClick={handleClick}
+      disabled={disabled}
     />
   );
 };
@@ -29,3 +38,4 @@ export default Button;
 // size = 크기 (large, middle, small)
 // name
 // onClick = {function}
+// disabled = {boolean}
