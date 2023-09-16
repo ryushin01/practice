@@ -1,0 +1,25 @@
+.input-wrap {
+  width: 100%;
+}
+
+.error {
+  input {
+    border-color: #ff3636;
+    color: #ff3636;
+
+    &::placeholder {
+      color: #ff3636;
+    }
+  }
+}
+
+.done {
+  input {
+    border-color: #2d71f7;
+    color: #2d71f7;
+
+    &::placeholder {
+      color: #2d71f7;
+    }
+  }
+}
