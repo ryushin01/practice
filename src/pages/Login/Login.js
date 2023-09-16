@@ -91,9 +91,10 @@ function Login() {
   // 16. loginComplete를 구독한 상태에서 리렌더링하여 조건 맞을 경우에만 콜백 함수 발동
   useEffect(() => {
     if (loginComplete === true) {
-      // 17. 콜백 함수 안에서 useNavigate 처리
+      // 17. 콜백 함수 안에서 useNavigate 처리로 페이지 이동
       navigate('/post');
     }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [loginComplete]);
 
   return (
