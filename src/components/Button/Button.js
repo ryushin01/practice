@@ -5,17 +5,7 @@ const Button = props => {
   const handleClick = () => {
     props.onClick();
   };
-  const {
-    className = 'btn',
-    type = 'submit',
-    shape,
-    size,
-    name,
-    toggle,
-    disabled,
-    hover,
-    onClick,
-  } = props;
+  const { className = 'btn', type, shape, size, name, onClick } = props;
 
   return (
     <button
@@ -24,9 +14,6 @@ const Button = props => {
       shape={shape}
       size={size}
       name={name}
-      toggle={toggle}
-      disabled={disabled}
-      hover={hover}
       onClick={handleClick}
     />
   );
@@ -36,12 +23,9 @@ export default Button;
 
 // props
 
-// className = 'btn' o
-// type = 성질 (button, submit) o
+// className = 'btn'
+// type = 성질 (button, submit)
 // shape = 모양 (outline, fill)
 // size = 크기 (large, middle, small)
 // name
-// toggle
-// disabled = 비활성화
-// hover
-// onClick = onClick
+// onClick = {function}

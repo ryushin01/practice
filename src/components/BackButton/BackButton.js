@@ -1,15 +1,17 @@
 import React from 'react';
 import Button from '../Button/Button';
+import { useNavigate } from 'react-router-dom'
 
 const BackButton = () => {
+  const navigate = useNavigate();
   const handleBackButton = () => {
-    history.go(-1);
+    navigate(-1);
   }
   
   return(
     <>
       <Button onClick={handleBackButton}>
-        <img src={/images/Vector.png>} alt="뒤로가기" /> 
+        <img src={/images/Back_arrow.png>} alt="뒤로가기" /> 
         뒤로
       </Button>
     </>
