@@ -10,6 +10,11 @@
     &::placeholder {
       color: #ff3636;
     }
+
+    &:focus {
+      border-color: #ff3636;
+      color: #ff3636;
+    }
   }
 }
 
@@ -19,6 +24,11 @@
     color: #2d71f7;
 
     &::placeholder {
+      color: #2d71f7;
+    }
+
+    &:focus {
+      border-color: #2d71f7;
       color: #2d71f7;
     }
   }
