@@ -18,6 +18,30 @@
       flex-direction: column;
       width: 100%;
       height: 100vh;
+      .splash {
+        @include FlexCenter;
+        flex: 1;
+
+        h1 {
+          text-align: center;
+          svg {
+            path {
+              stroke: $grayscale-1;
+            }
+          }
+          & + h2 {
+            margin-top: 24px;
+          }
+        }
+        h2 {
+          svg {
+            path {
+              fill: $grayscale-1;
+              stroke: $grayscale-1;
+            }
+          }
+        }
+      }
     }
   }
 }

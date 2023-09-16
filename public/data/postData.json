@@ -1,0 +1,274 @@
+[
+  {
+    "postId": 1,
+    "nickname": "류창선 류창선 류창선 류창선",
+    "profileImage": "https://ca.slack-edge.com/TH0U6FBTN-U05MM14F1B5-e6b75c546bcd-512",
+    "isMyPost": false,
+    "content": "91년생",
+    "isLiked": true,
+    "likeCount": 8,
+    "comments": [
+      {
+        "commentId": 1111,
+        "nickname": "a",
+        "profileImage": "https://ca.slack-edge.com/TH0U6FBTN-U028PHSRY0P-d7f1b732480e-512",
+        "comment": "좋은 말씀이십니다. 좋은 말씀이십니다. 좋은 말씀이십니다. 좋은 말씀이십니다. 좋은 말씀이십니다. 좋은 말씀이십니다. 좋은 말씀이십니다. 좋은 말씀이십니다. 좋은 말씀이십니다. 좋은 말씀이십니다. 좋은 말씀이십니다. 좋은 말씀이십니다. 좋은 말씀이십니다. 좋은 말씀이십니다. 좋은 말씀이십니다.",
+        "isMyReply": true,
+        "createdAt": "00.00.00"
+      },
+      {
+        "commentId": 11111,
+        "nickname": "b",
+        "profileImage": "https://ca.slack-edge.com/TH0U6FBTN-URG3Z8JLU-3934de4970fe-512",
+        "comment": "오늘 아침은 제육볶음, 점심은 교동짬뽕, 저녁은 노가리에 맥주 한잔을 마십니다.",
+        "isMyReply": false,
+        "createdAt": "00.00.00"
+      },
+      {
+        "commentId": 111111,
+        "nickname": "c",
+        "profileImage": "https://ca.slack-edge.com/TH0U6FBTN-URG3Z8JLU-3934de4970fe-512",
+        "comment": "c",
+        "isMyReply": false,
+        "createdAt": "00.00.00"
+      },
+      {
+        "commentId": 1111111,
+        "nickname": "d",
+        "profileImage": "https://ca.slack-edge.com/TH0U6FBTN-URG3Z8JLU-3934de4970fe-512",
+        "comment": "d",
+        "isMyReply": true,
+        "createdAt": "00.00.00"
+      },
+      {
+        "commentId": 11111111,
+        "nickname": "e",
+        "profileImage": "https://ca.slack-edge.com/TH0U6FBTN-URG3Z8JLU-3934de4970fe-512",
+        "comment": "e",
+        "isMyReply": false,
+        "createdAt": "00.00.00"
+      },
+      {
+        "commentId": 111111111,
+        "nickname": "f",
+        "profileImage": "https://ca.slack-edge.com/TH0U6FBTN-URG3Z8JLU-3934de4970fe-512",
+        "comment": "f",
+        "isMyReply": false,
+        "createdAt": "00.00.00"
+      },
+      {
+        "commentId": 1111111111,
+        "nickname": "g",
+        "profileImage": "https://ca.slack-edge.com/TH0U6FBTN-URG3Z8JLU-3934de4970fe-512",
+        "comment": "g",
+        "isMyReply": false,
+        "createdAt": "00.00.00"
+      },
+      {
+        "commentId": 11111111111,
+        "nickname": "h",
+        "profileImage": "https://ca.slack-edge.com/TH0U6FBTN-URG3Z8JLU-3934de4970fe-512",
+        "comment": "h",
+        "isMyReply": false,
+        "createdAt": "00.00.00"
+      },
+      {
+        "commentId": 111111111111,
+        "nickname": "i",
+        "profileImage": "https://ca.slack-edge.com/TH0U6FBTN-URG3Z8JLU-3934de4970fe-512",
+        "comment": "i",
+        "isMyReply": false,
+        "createdAt": "00.00.00"
+      },
+      {
+        "commentId": 1111111111111,
+        "nickname": "j",
+        "profileImage": "https://ca.slack-edge.com/TH0U6FBTN-URG3Z8JLU-3934de4970fe-512",
+        "comment": "j",
+        "isMyReply": false,
+        "createdAt": "00.00.00"
+      }
+    ],
+    "createdAt": "00.00.00"
+  },
+  {
+    "postId": 2,
+    "nickname": "호영님",
+    "profileImage": "https://ca.slack-edge.com/TH0U6FBTN-U05NAQPE2EL-78d7ffb55722-512",
+    "isMyPost": false,
+    "content": "91년생",
+    "isLiked": true,
+    "likeCount": 8,
+    "comments": [
+      {
+        "commentId": 22,
+        "nickname": "lee",
+        "profileImage": null,
+        "comment": "좋은 말씀이십니다.",
+        "isMyReply": false,
+        "createdAt": "00.00.00"
+      }
+    ],
+    "createdAt": "00.00.00"
+  },
+  {
+    "postId": 3,
+    "nickname": "승윤 멘토님",
+    "profileImage": "https://ca.slack-edge.com/TH0U6FBTN-U052FFBRGCB-de6d1dd55291-192",
+    "isMyPost": false,
+    "content": "91년생",
+    "isLiked": true,
+    "likeCount": 8,
+    "comments": [
+      {
+        "commentId": 33,
+        "nickname": "lee",
+        "profileImage": null,
+        "comment": "좋은 말씀이십니다.",
+        "isMyReply": true,
+        "createdAt": "00.00.00"
+      }
+    ],
+    "createdAt": "00.00.00"
+  },
+  {
+    "postId": 4,
+    "nickname": "래영 멘토님",
+    "profileImage": "https://ca.slack-edge.com/TH0U6FBTN-U01HXJC2HK4-8c96ea204ede-192",
+    "isMyPost": false,
+    "content": "91년생",
+    "isLiked": false,
+    "likeCount": 8,
+    "comments": [
+      {
+        "commentId": 44,
+        "nickname": "lee",
+        "profileImage": null,
+        "comment": "좋은 말씀이십니다.",
+        "isMyReply": true,
+        "createdAt": "00.00.00"
+      }
+    ],
+    "createdAt": "00.00.00"
+  },
+  {
+    "postId": 5,
+    "nickname": "요진님",
+    "profileImage": "https://ca.slack-edge.com/TH0U6FBTN-U05NNSK3D4Y-a4a8de636e22-512",
+    "isMyPost": false,
+    "content": "91년생",
+    "isLiked": true,
+    "likeCount": 8,
+    "comments": [
+      {
+        "commentId": 55,
+        "nickname": "lee",
+        "profileImage": null,
+        "comment": "좋은 말씀이십니다.",
+        "isMyReply": true,
+        "createdAt": "00.00.00"
+      }
+    ],
+    "createdAt": "00.00.00"
+  },
+  {
+    "postId": 6,
+    "nickname": "운영자",
+    "profileImage": null,
+    "isMyPost": false,
+    "content": "91년생",
+    "isLiked": true,
+    "likeCount": 8,
+    "comments": [
+      {
+        "commentId": 66,
+        "nickname": "lee",
+        "profileImage": null,
+        "comment": "좋은 말씀이십니다.",
+        "isMyReply": true,
+        "createdAt": "00.00.00"
+      }
+    ],
+    "createdAt": "00.00.00"
+  },
+  {
+    "postId": 7,
+    "nickname": "기영님",
+    "profileImage": "https://ca.slack-edge.com/TH0U6FBTN-U05NAQPCKKJ-0ecd1866aa2f-512",
+    "isMyPost": false,
+    "content": "91년생",
+    "isLiked": true,
+    "likeCount": 8,
+    "comments": [
+      {
+        "commentId": 77,
+        "nickname": "lee",
+        "profileImage": null,
+        "comment": "좋은 말씀이십니다.",
+        "isMyReply": true,
+        "createdAt": "00.00.00"
+      }
+    ],
+    "createdAt": "00.00.00"
+  },
+  {
+    "postId": 8,
+    "nickname": "주은님",
+    "profileImage": "https://ca.slack-edge.com/TH0U6FBTN-U05MM14SX7V-2eabb8e13b98-512",
+    "isMyPost": false,
+    "content": "91년생",
+    "isLiked": true,
+    "likeCount": 8,
+    "comments": [
+      {
+        "commentId": 88,
+        "nickname": "lee",
+        "profileImage": null,
+        "comment": "좋은 말씀이십니다.",
+        "isMyReply": true,
+        "createdAt": "00.00.00"
+      }
+    ],
+    "createdAt": "00.00.00"
+  },
+  {
+    "postId": 9,
+    "nickname": "수아님",
+    "profileImage": "https://ca.slack-edge.com/TH0U6FBTN-U05DT4PJRK2-89b83a49291b-512",
+    "isMyPost": false,
+    "content": "91년생",
+    "isLiked": true,
+    "likeCount": 8,
+    "comments": [
+      {
+        "commentId": 99,
+        "nickname": "lee",
+        "profileImage": null,
+        "comment": "좋은 말씀이십니다.",
+        "isMyReply": true,
+        "createdAt": "00.00.00"
+      }
+    ],
+    "createdAt": "00.00.00"
+  },
+  {
+    "postId": 10,
+    "nickname": "청원님",
+    "profileImage": "https://ca.slack-edge.com/TH0U6FBTN-U05MM13M0RH-251ef8683e96-512",
+    "isMyPost": false,
+    "content": "91년생",
+    "isLiked": true,
+    "likeCount": 8,
+    "comments": [
+      {
+        "commentId": 100,
+        "nickname": "lee",
+        "profileImage": null,
+        "comment": "좋은 말씀이십니다.",
+        "isMyReply": true,
+        "createdAt": "00.00.00"
+      }
+    ],
+    "createdAt": "00.00.00"
+  }
+]
