@@ -1,0 +1,18 @@
+@charset "utf-8";
+
+#root,
+.inner-wrap {
+  min-height: 100vh;
+}
+
+.inner-wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  min-width: 320px;
+  max-width: 576px;
+  margin: 0 auto;
+  border: 1px #eee solid;
+  border-radius: 10px;
+}

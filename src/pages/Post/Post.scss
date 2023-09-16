@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+.main {
+  width: 100%;
+  height: 80vh;
+  overflow-y: auto;
+  .btn-wrap {
+    position: fixed;
+    bottom: 8vh;
+    min-width: 320px;
+    max-width: 576px;
+    width: 100%;
+  }
+}
