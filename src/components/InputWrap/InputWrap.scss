@@ -1,0 +1,49 @@
+.input-wrap {
+  width: 100%;
+
+  &.error {
+    input {
+      border-color: #ff3636;
+      color: #ff3636;
+
+      &::placeholder {
+        color: #ff3636;
+      }
+
+      &:focus {
+        border-color: #ff3636;
+        color: #ff3636;
+      }
+    }
+  }
+
+  &.done {
+    input {
+      border-color: #2d71f7;
+      color: #2d71f7;
+
+      &::placeholder {
+        color: #2d71f7;
+      }
+
+      &:focus {
+        border-color: #2d71f7;
+        color: #2d71f7;
+      }
+    }
+  }
+
+  .error-text {
+    display: flex;
+    align-items: center;
+    color: #ff3636;
+    gap: 8px;
+  }
+
+  .done-text {
+    display: flex;
+    align-items: center;
+    color: #2d71f7;
+    gap: 8px;
+  }
+}
