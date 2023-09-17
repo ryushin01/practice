@@ -1,14 +1,7 @@
 import React from 'react';
 import './Input.scss';
 const Input = props => {
-  const {
-    className = 'input',
-    placeholder,
-    type,
-    disabled,
-    name,
-    onChange,
-  } = props;
+  const { className = 'input', placeholder, type, disabled, name } = props;
 
   return (
     <input
@@ -17,7 +10,6 @@ const Input = props => {
       type={type}
       disabled={disabled}
       name={name}
-      onChange={onChange}
     />
   );
 };

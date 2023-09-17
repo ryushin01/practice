@@ -32,4 +32,18 @@
       }
     }
   }
+
+  .error-text {
+    display: flex;
+    align-items: center;
+    color: #ff3636;
+    gap: 8px;
+  }
+
+  .done-text {
+    display: flex;
+    align-items: center;
+    color: #2d71f7;
+    gap: 8px;
+  }
 }
