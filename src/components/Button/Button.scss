@@ -1,0 +1,56 @@
+.btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 24px;
+  border-radius: 6px;
+  width: 100%;
+  cursor: pointer;
+
+  &[shape='outline'] {
+    background-color: #ffffff;
+    color: #2d71f7;
+    border: 1px solid #2d71f7;
+
+    &:disabled {
+      color: #cccccc;
+      border: 1px solid #cccccc;
+      cursor: not-allowed;
+    }
+
+    &:hover {
+      color: #083e7f;
+      border: 1px solid #083e7f;
+    }
+  }
+
+  &[shape='fill'] {
+    background-color: #2d71f7;
+    border: none;
+    color: #ffffff;
+
+    &:disabled {
+      background-color: #cccccc;
+      cursor: not-allowed;
+    }
+
+    &:hover {
+      background-color: #083e7f;
+    }
+  }
+
+  &[size='large'] {
+    height: 56px;
+    width: 528px;
+  }
+
+  &[size='middle'] {
+    height: 56px;
+    width: 120px;
+  }
+
+  &[size='small'] {
+    height: 50px;
+    width: 96px;
+  }
+}
